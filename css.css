@@ -1,0 +1,167 @@
+.all
+{
+	background-color:black;
+	border-radius: 20px;
+	width: 300px;
+	height: 490px;
+	margin-left: 360px;
+	display: flex;
+}
+.border
+{
+
+	background-color:rgb(114,87,88);
+	border-radius:20px;
+	width: 270px;
+	height: 460px;
+	margin-left: 15px;
+	margin-top: 14px;
+
+
+}
+.centerr
+{
+	background-color:  rgb(182,203,253);
+	border-radius: 50%;
+	width: 15px;
+	height: 15px;
+	margin-left: 2px;
+	margin-top: 2px;
+	
+	
+	
+}
+.camera
+{
+	background-color:rgb(95,104,139);
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+	margin-top: 15px;
+	margin-left: 10px;
+	display: flex;
+	
+
+}
+.button
+{
+	background-color: black;
+	margin-top: -24px;
+	width: 60px;
+	height: 20px;
+	border-radius: 20px;
+	margin-left: 80px;
+}
+.button2
+{
+	background-color: black;
+	width: 70px;
+	height: 25px;
+	border-radius: 20px ;
+	margin-top: 13px;
+	margin-left: 80px;
+	border:4px solid rgb(182,203,253);
+	margin-top: 45px;
+}
+.link a
+{
+ text-decoration: none;
+ color:white;
+ margin-left: 30px;
+}
+
+.with
+{
+	background-color:rgb(149,110,111);
+	border-radius: 5px;
+	width: 240px;
+	height: 360px;
+	margin-left: 12px;
+	margin-top: 30px;
+}
+img
+{
+  width: 50px;
+  height:30px; 
+  margin-left: 20px;
+  padding-top: 10px; 
+}
+h3
+{
+	color: white;
+	margin-left: 100px;
+	margin-top: -40px;
+	font-family: sans-serif;
+}
+.user i
+{
+margin-left: 30PX;	
+border-bottom: 3px solid white;
+width: 200px;
+
+}
+.login input
+{
+	margin-left: 30PX;
+	background-color: white;
+	border-radius: 6px;
+	width: 200px;
+	height: 25px;
+	border:1px solid white;
+	font-size: 15px;
+	font-family: sans-serif;
+}
+.google
+{
+	margin-left: 30px;
+	background-color:blue;
+	width: 200px;
+	height: 25px;
+}
+.google a
+{
+   text-decoration: none;
+   color: white;
+   font-size: 15px;
+   margin-left: 15px;
+   font-family: sans-serif;
+}
+.face
+{
+	margin-left: 30px;
+	background-color:darkblue;
+	width: 200px;
+	height: 25px;
+}
+
+.face a
+{
+	text-decoration: none;
+   color: white;
+   font-size: 15px;
+   margin-left: 15px;
+   font-family: sans-serif;
+}
+.signup input
+{
+	margin-left: 30px;
+	background-color:rgb(182,203,253);
+	border-radius: 6px;
+	width: 200px;
+	height: 25px;
+	font-family: sans-serif;
+	border:1px solid rgb(182,203,253);
+	font-size: 15px;
+
+}
+.user input{
+	border: none;
+	background:none;
+	outline: none;
+	font-family: sans-serif;
+}
+::placeholder{
+	color: white;
+	font-size: 18px;
+}
+
